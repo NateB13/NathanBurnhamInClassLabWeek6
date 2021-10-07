@@ -1,3 +1,5 @@
+//Nathan Burnham BCS345 In Class Lab Week 6 10/6/21
+
 package nathanburnhaminclasslabweek6;
 import javafx.application.Application;
 import javafx.geometry.Insets;
